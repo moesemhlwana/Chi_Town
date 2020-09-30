@@ -1,0 +1,122 @@
+	body{
+			background-image:url(back.jpg);
+			background-size: cover;
+			background-attachment: fixed;
+		}
+
+		.content{
+			background: white;
+			width: 50%;
+			padding: 40px;
+			margin: 100px auto;
+			font-family: calibri;
+			border-radius: 10px;
+		}
+
+		p{
+			font-size: 25px;
+			color: black;
+		}
+      .profilePic{
+      	width: 300PX;
+      	margin: auto;
+
+      }
+      .profilePic img{
+      	border-radius: 50%
+      }
+
+      
+
+
+      .generalInfo h2 {
+	margin-bottom: 30px;
+}
+
+
+
+.generalInfo ul li {
+	font-size: 24px;
+	color: #808181;
+	margin-bottom: 15px;
+}
+
+.generalInfo ul li span {
+	color: #40424a;
+	display: inline-block;
+	min-width: 220px;
+}
+
+.generalInfo ul li:last-child {
+	margin-bottom: 0;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+
+
+/* hobbies ratings*/
+*{
+	box-sizing: border-box;
+	font-family: initial;
+	
+}
+
+.container{
+	position: all;
+	left: 50%;
+	width: 60%;
+
+
+}
+.Hobby-container{
+	width: 100%;
+	background: #ddd;
+}
+.Hobby{
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: white;
+}
+
+.one{
+	width: 90%;
+	background-color: #4CAF50;
+}
+
+.two{
+	width: 50%;
+	background-color: #2196F3;
+}
+
+.three{
+	width: 60%;
+	background-color: #F44336;
+}
+
+.four{
+	width: 70%;
+	background-color: #808080;
+}
+
+
+.top4{
+text-align: left;
+font-size: 25px;
+
+
+}
+/*end of hobbies rating*/
+
+/* button*/
+.btn{
+background-color: #E159E8 ;
+width: 20%;
+padding:15px;
+
+}
